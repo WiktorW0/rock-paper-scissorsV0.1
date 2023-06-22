@@ -14,5 +14,5 @@
 
 ## 📷 Screenshots:
 <p align="center">
-<img src="https://i.imgur.com/lKfgvqq.png" height="60%" width="60%" alt="Rock paper scissors"/>
+<img src="https://i.imgur.com/lKfgvqq.png" height="70%" width="70%" alt="Rock paper scissors"/>
 <br />
