@@ -4,7 +4,7 @@
 
 ***Rock paper scissors game build as a part of [The Ultimate JavaScript Course for Beginners](https://www.cleverprogrammer.com/) made by [Rafeh Qazi](https://github.com/CleverProgrammer).***
 </br>
-***Game created in order to learn the basics of JavaScript with tweaks to shown stats of the game done by myself*** 
+***Game created in order to learn the basics of JavaScript with tweaks to stats of the game done by myself.*** 
  
 ## ⚒️ Built with:
 - HTML 5
